@@ -28,10 +28,10 @@
 ## 🤝 Connect with Me  
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/your-linkedin-id](https://www.linkedin.com/in/gaumit-kauts-947312235?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B8QAMRWqtS0Wy6B3X%2FeGYCQ%3D%3D)">
+  <a href="https://www.linkedin.com/in/gaumit-kauts-947312235?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B8QAMRWqtS0Wy6B3X%2FeGYCQ%3D%3D">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:kautsgaumit321@gmail.com.com">
+  <a href="mailto:kautsgaumit321@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Gaumit-Kauts">
