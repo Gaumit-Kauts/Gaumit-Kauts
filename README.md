@@ -6,7 +6,7 @@
 
 🌐 Whether it’s experimenting with the latest frameworks or diving deep into the intricacies of machine learning algorithms, I’m all about leveraging tech to create meaningful insights and impactful outcomes.
 
-[Connect with me on LinkedIn👉](https://www.linkedin.com/in/gaumit-kauts-947312235?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B8QAMRWqtS0Wy6B3X%2FeGYCQ%3D%3D)
+[👉Connect with me on LinkedIn](https://www.linkedin.com/in/gaumit-kauts-947312235?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B8QAMRWqtS0Wy6B3X%2FeGYCQ%3D%3D)
 
 <!--
 **Gaumit-Kauts/Gaumit-Kauts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
