@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Gaumit Kauts  
+# 👋 Hi, I’m Gaumit Kauts  
 
 🎓 **Software Engineering Student** | Graduating May 2026  
 💻 Aspiring **Software Engineer / Data Engineer / Full-Stack Developer**  
