@@ -16,13 +16,21 @@
 
 ## 🛠 Tech Stack  
 
-**Languages:** Java | Python | C++ | JavaScript | SQL | HTML/CSS  
-**Frameworks & Tools:** Django | Spring | Hibernate | TensorFlow | PyTorch | React.js | Node.js | Apache Spark | Selenium | Pytest  
-**Cloud & DevOps:** AWS | Azure | Power BI | Git | Docker  
-**Libraries:** Pandas | NumPy | Scikit-Learn | Matplotlib  
+**Languages & Core:** `Python` `Java` `C++` `SQL` `JavaScript` `HTML/CSS`  
+
+**AI & Data Infrastructure:** `Generative AI` `LLMs` `RAG Pipelines` `PyTorch` `Hugging Face` `PySpark` `Apache Spark` `TensorFlow`  
+
+**Frameworks & Tools:** `Django` `Spring` `React.js` `Node.js` `Airflow` `Flask` `Power BI`  
+
+**Cloud & DevOps:** `AWS` `Google Cloud Platform` `Docker` `GitHub Actions` `CI/CD` `Git`
 
 ---
+## ⚡ Core Competencies  
 
+* **Systems Thinking:** Designing for long-term scalability and operational resilience.  
+* **Security & Reliability:** Implementing robust guardrails to protect data integrity and system health.  
+* **Technical Communication:** Bridging the gap between complex backend architectures and intuitive, user-friendly interfaces.  
+* **Strategic Problem Solving:** Leveraging an analytical mindset to navigate ambiguous technical environments.
 
 
 ## 🤝 Connect with Me  
